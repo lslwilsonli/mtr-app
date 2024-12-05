@@ -1,8 +1,8 @@
 # MTR Web App
 
-Build a simple web application that displays bus information, including routes and schedules, by fetching data from the KMB API.
+Build a simple web application that displays MTR information, including routes and schedules, by fetching data from the MTR API.
 
-Try Now: https://lslwilsonli.github.io/kmb-app/
+Try Now: https://lslwilsonli.github.io/mtr-app/
 
 Tools: JavaScript, CSS, HTML
 
